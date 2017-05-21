@@ -8,11 +8,6 @@ public class VendingMachine {
 		System.out.println("reload");
 	}
 	
-//	VendingMachine(int price)
-//	{
-//		System.out.println("reloadint");
-//		this.price = price;
-//	}
 	
 	VendingMachine(double price)
 	{
